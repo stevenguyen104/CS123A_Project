@@ -1,0 +1,6 @@
+molecule_name    pIC50
+CHEMBL3819677 6.378960
+CHEMBL1184572 5.551616
+CHEMBL1205352 5.926494
+Mean Absolute Error: 0.0
+Mean Squared Error: 0.0
